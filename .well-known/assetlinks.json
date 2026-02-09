@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "studybuddy",
+      "package_name": "com.example.study_buddy_main",
+      "sha256_cert_fingerprints": [
+        "66:52:0C:6B:49:86:70:D5:DE:E7:C6:1A:97:1D:3F:72:C2:0C:86:48:C5:E5:A5:FF:78:C5:CC:06:83:90:A7:09"
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "26YN74424N.com.example.studyBuddyMain",
+        "paths": [
+          "/verify",
+          "/verify/*",
+          "/emailSignIn",
+          "/emailSignIn/*"
+        ]
+      }
+    ]
+  }
+}
